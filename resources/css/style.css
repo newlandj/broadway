@@ -1,0 +1,48 @@
+* {
+  font-family: helvetica;
+}
+
+#centered {
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+.btn-nav {
+  color: white;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p{
+  font-size: 14px
+}
+
+.header {
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+#footer {
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+    text-align: left;
+}
+
+#new_york {
+    background-image: url(../images/the-flatiron-building.png);
+    color: white;
+}
+
+#contact {
+
+}
